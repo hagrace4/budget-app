@@ -1,1 +1,1 @@
-# budget-app Project from FreeCodeCamp
+# budget-app Project
